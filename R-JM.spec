@@ -4,7 +4,7 @@
 #
 Name     : R-JM
 Version  : 1.4.8
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/JM_1.4-8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/JM_1.4-8.tar.gz
 Summary  : Joint Modeling of Longitudinal and Survival Data
