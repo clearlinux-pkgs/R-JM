@@ -4,7 +4,7 @@
 #
 Name     : R-JM
 Version  : 1.5.2
-Release  : 36
+Release  : 37
 URL      : https://cran.r-project.org/src/contrib/JM_1.5-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/JM_1.5-2.tar.gz
 Summary  : Joint Modeling of Longitudinal and Survival Data
